@@ -1,0 +1,41 @@
+.text-small-conteiner {
+    display: inline-block;
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.text-small {
+    padding: 1px 15px 1px 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;       
+    align-items: center;  
+    color: #595959;
+}
+
+.text-medium-conteiner {
+    padding: 8px 10px 8px 10px;
+    margin-top: 5px;
+
+    background-color: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+}
+
+.text-medium {
+    font-family: 'Roboto';
+    font-style: normal;
+    //font-weight: bold;
+    font-size: 16px;
+    line-height: 24px; 
+    display: flex;
+    align-items: center;
+    color: #737373;
+}
